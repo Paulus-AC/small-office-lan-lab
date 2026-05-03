@@ -50,7 +50,7 @@ The physical layout is two access switches (1st floor and 2nd floor) uplinked to
 
 **Diagram**
 
-![Topology](gov-office-vlan-lab/topology/topology-diagram.png)
+![Topology](/topology/topology-diagram.png)
 
 ---
 
