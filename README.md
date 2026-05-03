@@ -1,6 +1,6 @@
 # Small Office LAN (GNS3 Lab)
 
-Hands-on GNS3 lab that simulates a small government office LAN with multiple floors, VLAN segmentation, inter-VLAN routing, DHCP, EtherChannel, and port security.
+Hands-on GNS3 lab that simulates a small office LAN with multiple floors, VLAN segmentation, inter-VLAN routing, DHCP, EtherChannel, and port security.
 
 This repository is part of my networking portfolio as a CCNA-certified network engineer. It shows how I design, build, and validate Layer 2/Layer 3 campus networks using only virtual lab tools.
 
