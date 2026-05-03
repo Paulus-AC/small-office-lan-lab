@@ -68,36 +68,6 @@ This style of lab is commonly used in CCNA/CCNP home labs and network design por
 
 ---
 
-## ▶️ How to run this lab
-
-1. **Install GNS3**
-
-   - Install GNS3 (GUI and VM if required) and import Cisco IOSv and IOSvL2 images according to the GNS3 documentation.
-
-2. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/<your-username>/small-office-lan.git
-   cd small-office-lan
-   ```
-
-3. **Import the project**
-
-   - Copy the `gov-office-vlan-lab` folder into your local GNS3 projects directory, or
-   - From GNS3, choose **File → Open Project** and point to `gov-office-vlan-lab/gov-office-vlan-lab.gns3`.
-
-4. **Start the lab**
-
-   - Open the project in GNS3.
-   - Start R1, 1stFloorSW, 2ndFloorSW, and the PC nodes.
-   - If necessary, apply the startup configs from `gov-office-vlan-lab/configs/`.
-
-5. **Run the tests**
-
-   - Follow `gov-office-vlan-lab/docs/test-plan.md` for a step-by-step checklist and verification tests.
-
----
-
 ## 📄 Files and folders
 
 - `gov-office-vlan-lab/`
